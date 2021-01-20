@@ -1,0 +1,103 @@
+{
+  "issueDetails":[
+     {
+        "sys_id":1602,
+        "metrics_name_code":3,
+        "metrics_name":"Cloud Storage",
+        "dc":"All Platform",
+        "status_name":"Green",
+        "status_code":300,
+        "percent_value":null,
+        "start_time":null,
+        "end_time":"2020-11-03 18:00:42",
+        "amber_time":null,
+        "create_time":"2020-11-03 08:40:42",
+        "red_time":null
+     },
+     {
+        "sys_id":1615,
+        "metrics_name_code":1,
+        "metrics_name":"Spanner",
+        "dc":"MDO",
+        "status_name":"Green",
+        "status_code":300,
+        "percent_value":null,
+        "start_time":null,
+        "end_time":"2020-11-03 20:16:19",
+        "amber_time":"2020-11-03 06:13:00",
+        "create_time":"2020-11-03 08:05:21",
+        "red_time":null
+     },
+     {
+        "sys_id":1634,
+        "metrics_name_code":5,
+        "metrics_name":"HDW Availability",
+        "dc":"5826",
+        "status_name":"Green",
+        "status_code":300,
+        "percent_value":null,
+        "start_time":null,
+        "end_time":"2020-11-04 08:00:55",
+        "amber_time":"2020-11-04 07:42:12",
+        "create_time":"2020-11-04 07:42:12",
+        "red_time":"2020-11-04 07:54:28"
+     },
+     {
+        "sys_id":1907,
+        "metrics_name_code":2,
+        "metrics_name":"GKE",
+        "dc":"5820",
+        "status_name":"Green",
+        "status_code":300,
+        "percent_value":null,
+        "start_time":null,
+        "end_time":"2020-11-23 12:31:51",
+        "amber_time":null,
+        "create_time":"2020-11-23 12:30:54",
+        "red_time":"2020-11-23 12:20:54"
+     },
+     {
+        "sys_id":2564,
+        "metrics_name_code":5,
+        "metrics_name":"HDW Availability",
+        "dc":"All Platform",
+        "status_name":"Green",
+        "status_code":300,
+        "percent_value":null,
+        "start_time":null,
+        "end_time":"2020-12-18 16:01:55",
+        "amber_time":null,
+        "create_time":"2020-12-18 16:01:55",
+        "red_time":"2020-12-18 16:01:55"
+     },
+     {
+        "sys_id":2601,
+        "metrics_name_code":4,
+        "metrics_name":"BigQuery",
+        "dc":"5821",
+        "status_name":"Green",
+        "status_code":300,
+        "percent_value":null,
+        "start_time":null,
+        "end_time":"2020-12-21 14:59:41",
+        "amber_time":null,
+        "create_time":"2020-12-21 14:58:19",
+        "red_time":"2020-12-21 14:58:19"
+     },
+     {
+        "sys_id":3081,
+        "metrics_name_code":1,
+        "metrics_name":"Spanner",
+        "dc":"5821",
+        "status_name":"Red",
+        "status_code":100,
+        "percent_value":null,
+        "start_time":null,
+        "end_time":null,
+        "amber_time":null,
+        "create_time":"2021-01-13 11:20:00",
+        "red_time":"2021-01-13 11:20:00"
+     }
+  ],
+  "error":null
+}
